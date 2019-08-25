@@ -2,6 +2,7 @@
 
 Read the code before you install this. Every single line.
 Plays an audio alert when an order is placed, cancelled, or filled.
+Currently only works on the Advanced trading terminal.
 This is a very bare-bones extension, lacking some of the things you'd expect from
 an extension published on the Chrome Web Store, such as an icon or pop-up menus for configuration.
 I may or may not add those things but if you want that, let me know.
